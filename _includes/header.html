@@ -2,7 +2,10 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <div class="site-title">
+      <a class="" href="{{ site.baseurl }}/"><img src="/images/logo.png" alt="Approval Tests Logo" /></a>
+      <a class="" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    </div>
 
     <nav class="site-nav">
       <a href="#" class="menu-icon">
@@ -14,11 +17,11 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+        <a class="page-link" href="/">Home</a>
+        <a class="page-link" href="/platforms">Platforms</a>
+        <a class="page-link" href="/resources">Resources</a>
+        <a class="page-link" href="http://blog.approvaltests.com">Blog</a>
+        <a class="page-link" href="/faq">F.A.Q.</a>
       </div>
     </nav>
 
