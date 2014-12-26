@@ -14,7 +14,7 @@ Unit testing asserts can be difficult to use. Approval tests simplify this by ta
 
 In normal unit testing, you say `assertEquals(5, person.getAge())`. Approvals allow you to do this when the thing that you want to assert is no longer a primitive but a complex object. For example, you can say, `Approvals.verify(person).`
 
-|   |   |  |
+|   |   |
 | :------------ | :---------------: |
 | **Step 1:** Create your scenario | ![](https://lh3.googleusercontent.com/-YnReahw8t10/Tc4fT4pBO3I/AAAAAAAAAdw/wmuV2aYHVDE/s288/approval_test_01_whiteboard.png)       |
 | **Step 2:** Write that scenario in English | ![](https://lh6.googleusercontent.com/-qbpq8-H7iSk/Tc4glvulw-I/AAAAAAAAAd0/HCQ_bcY6j60/s288/approval_test_02_english.png)  |

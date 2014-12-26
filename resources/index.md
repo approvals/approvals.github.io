@@ -4,16 +4,16 @@ title: Resources
 ---
 
 
-* Watch some [General Videos](http://approvaltests.sourceforge.net/?q=node/7)
+* Watch some [General Videos](/videos)
 * Watch the Getting started [Using ApprovalTests in .Net Series](http://www.youtube.com/playlist?list=PL0C32F89E8BBB5368&feature=view_all)
 * Read the [blog](http://blog.approvaltests.com/)
-* Read the [F.A.Q](http://approvaltests.sourceforge.net/?q=node/3)
+* Read the [F.A.Q](/faq)
 
 Learn more about using Approval Tests in regard to :
 
 * [Using Reporters](http://blog.approvaltests.com/2011/12/using-reporters-in-approval-tests.html)
-* [Legacy Code](http://approvaltests.sourceforge.net/?q=node/8)
-* [How To Test...](http://approvaltests.sourceforge.net/?q=node/9)
+* [Legacy Code](/legacycode)
+* [How To Test...](/howtotest)
 
 
 # Podcasts
