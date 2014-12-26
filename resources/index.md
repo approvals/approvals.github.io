@@ -9,7 +9,7 @@ title: Resources
 * Read the [blog](http://blog.approvaltests.com/)
 * Read the [F.A.Q](http://approvaltests.sourceforge.net/?q=node/3)
 
-Learn more about using approvaltests in regard to :
+Learn more about using Approval Tests in regard to :
 
 * [Using Reporters](http://blog.approvaltests.com/2011/12/using-reporters-in-approval-tests.html)
 * [Legacy Code](http://approvaltests.sourceforge.net/?q=node/8)
