@@ -28,4 +28,4 @@ In normal unit testing, you say `assertEquals(5, person.getAge())`. Approvals al
 
 # More info
 
-For more information checkout the [Resources](resources) page...
+For more information checkout the [Resources](resources) page.
