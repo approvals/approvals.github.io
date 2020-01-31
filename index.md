@@ -3,16 +3,31 @@ layout: page
 title: Home
 ---
 
-# News:
-* 3/01/2013 - Listen to the 30 minute [Podcast on Hanselminutes](http://www.hanselminutes.com/360/approval-tests-with-llewellyn-falco)
-* 1/02/2013 - Listen to the 43 minute [Podcast on WatirPodcast](http://watirpodcast.com/podcast-53/)
-* 7/21/2011 - Listen to the 1 Hour [Podcast on Herding Code](http://www.developerfusion.com/media/122649/herding-code-117-llewellyn-falcon-on-approval-tests/)
+
 
 > A picture's worth a 1000 tests.
 
 Unit testing asserts can be difficult to use. Approval tests simplify this by taking a snapshot of the results, and confirming that they have not changed.
 
 In normal unit testing, you say `assertEquals(5, person.getAge())`. Approvals allow you to do this when the thing that you want to assert is no longer a primitive but a complex object. For example, you can say, `Approvals.verify(person).`
+
+ 
+**Note:** Approvaltests is in many languages. We suggest you start there as it is the best maintained for each project.
+
+[<img src="images/languages/java.svg" width="50" height="50">](https://github.com/approvals/approvaltests.java) 
+[<img src="images/languages/csharp.svg" width="50" height="50">](https://github.com/approvals/approvaltests.net) 
+[<img src="images/languages/cpp.svg" width="50" height="50">](https://github.com/approvals/approvaltests.cpp)
+[<img src="images/languages/php.svg" width="50" height="50">](https://github.com/approvals/approvaltests.php)
+[<img src="images/languages/python.svg"  width="50" height="50">](https://github.com/approvals/approvaltests.Python)
+[<img src="images/languages/swift.svg"  width="50" height="50">](https://github.com/approvals/approvaltests.Swift)
+[<img src="images/languages/javascript.svg"  width="50" height="50">](https://github.com/approvals/approvaltests.NodeJS)
+[<img src="images/languages/golang.svg"  width="50" height="50">](https://github.com/approvals/approvaltests.perl)
+[<img src="images/languages/perl.svg"  width="50" height="50">](https://github.com/approvals/go-approval-tests)
+[<img src="images/languages/lua.svg"  width="50" height="50">](https://github.com/approvals/ApprovalTests.lua)
+[<img src="images/languages/objective-c.svg"  width="50" height="50">](https://github.com/approvals/ApprovalTests.Objective-C)
+[<img src="images/languages/ruby.svg"  width="50" height="50">](https://github.com/kytrinyx/approvals)
+                  
+ 
 
 |   |   |
 | :------------ | :---------------: |
