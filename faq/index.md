@@ -57,4 +57,4 @@ All tests have this (not only unit tests). With approvals, the second part becom
 
 **Q: What is the testing circle?**
 
-The Testing Circle is the normal everyday pattern I used while doing TDD/BDD. Read [the Blog here](http://blog.approvaltests.com/2012/05/testing-circle.html).
+The Testing Circle is the everyday pattern I used while doing TDD/BDD. Read [the Blog here](http://approvaltests.blogspot.com/2012/05/testing-circle.html).
