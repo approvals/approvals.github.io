@@ -8,11 +8,11 @@ title: How to Test
 
 | C# | Java | Ruby |
 | :------------: | :---------: | :---------: |
-| With Reporters | [With Reporters](http://approvaltests.blogspot.com/2009/03/use-reporter-annotations.html) | With Reporters |
+| With Reporters | [With Reporters](http://blog.approvaltests.org/2009/03/use-reporter-annotations.html) | With Reporters |
 | Arrays | | |
-| [Winforms](http://approvaltests.blogspot.com/2009/06/parts.html) | [Large Combination of Inputs](http://approvaltests.blogspot.com/2010/12/complete-unit-testing.html) | |
+| [Winforms](http://blog.approvaltests.org/2009/06/parts.html) | [Large Combination of Inputs](http://blog.approvaltests.org/2010/12/complete-unit-testing.html) | |
 | Wpf | | |
-| [Asp.Net](http://approvaltests.blogspot.com/2011/07/testing-aspnet-pages.html) | [JRack](http://approvaltests.blogspot.com/2009/09/hello-jrack.html) | |
+| [Asp.Net](http://blog.approvaltests.org/2011/07/testing-aspnet-pages.html) | [JRack](http://blog.approvaltests.org/2009/09/hello-jrack.html) | |
 | Entity Framework | | |
 | Rdlc Reports | | |
-| Datasets | [Web API's](http://approvaltests.blogspot.com/2009/04/approving-weather.html) | |
+| Datasets | [Web API's](http://blog.approvaltests.org/2009/04/approving-weather.html) | |
