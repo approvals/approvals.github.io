@@ -2,7 +2,7 @@
 title: Approval Tests
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:" :)
-  Approval Tests Library - Capturing Human Intelligence [available for Java, C#, VB.Net, PHP, Ruby, Node.JS and Python]
+  Approval Tests Library - Capturing Human Intelligence [available for Java, C#, C++, Swift, Perl, Golang, VB.Net, PHP, Ruby, Node.JS and Python]
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://approvaltests.com" # the base hostname & protocol for your site
 enforce_ssl: approvaltests.com
