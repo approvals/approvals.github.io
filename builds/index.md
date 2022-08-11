@@ -52,5 +52,5 @@ title: Build Statuses
 ## Koans
 | Project | Status |
 | ----- |-----|
-| [Java]([https://github.com/approvals/ApprovalTests.Net.StarterProject](https://github.com/approvals/ApprovalTests.java.Koans)) | [![build](https://github.com/approvals/ApprovalTests.java.Koans/actions/workflows/test.yml/badge.svg)](https://github.com/approvals/ApprovalTests.java.Koans/actions/workflows/test.yml) |
+| [Java](https://github.com/approvals/ApprovalTests.java.Koans) | [![build](https://github.com/approvals/ApprovalTests.java.Koans/actions/workflows/test.yml/badge.svg)](https://github.com/approvals/ApprovalTests.java.Koans/actions/workflows/test.yml) |
 | [.Net](https://github.com/approvals/ApprovalTests.Net.Koans) | No build script yet |
