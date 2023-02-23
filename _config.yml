@@ -13,3 +13,6 @@ markdown: kramdown
 
 gems:
   - jemoji
+
+plugins:
+  - jekyll-spaceship
