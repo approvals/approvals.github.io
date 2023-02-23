@@ -1,15 +1,16 @@
 <a id="top"></a>
+<script src="/assets/scripts/mermaid.min.js"/>
 # Benefits of Different Reporters
 
 ## Feedback and Granularity
-```mermaid
+<div class="mermaid">
 flowchart
 Run --> Pass
 Run --> Fail
 Fail --> reporter["Open Reporter (Diff Tool)"]
 style Fail fill:#f00
 style Pass fill:#0f0
-```
+</div>
 
 When your tests fail, ApprovalTests will open a reporter.
 A reporter allows you to do many things.
