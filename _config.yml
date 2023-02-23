@@ -11,8 +11,6 @@ github_username:  approvals
 # Build settings
 markdown: kramdown
 
-gems:
-  - jemoji
-
 plugins:
+  - jemoji
   - jekyll-spaceship
