@@ -1,3 +1,7 @@
+---
+layout: page
+title: Build Statuses
+---
 <a id="top"></a>
 # Benefits of Different Reporters
 
@@ -35,7 +39,7 @@ This is very helpful to find very detailed changes
 2. Rendered in a browser.
 This is very helpful when you want to know what the page actually looks like.
 
-```mermaid
+```mermaid!
 flowchart
 Run --> Fail
 Fail --> DiffReporter["DiffReporter\n(Open HTML in Diff Tool)"]
