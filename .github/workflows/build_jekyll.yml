@@ -22,4 +22,3 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }} # It's your Personal Access Token(PAT)
           cname: 'approvaltests.com'    
           
-      - uses: actions/deploy-pages@v1
