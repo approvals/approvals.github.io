@@ -20,5 +20,5 @@ jobs:
         with:
           provider: 'github'
           token: ${{ secrets.GITHUB_TOKEN }} # It's your Personal Access Token(PAT)
-          cname: ${{ secrets.GH_DOMAIN }}                  
+          cname: 'approvaltests.com'                  
          
