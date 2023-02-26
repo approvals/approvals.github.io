@@ -19,6 +19,7 @@ jobs:
       - uses: jeffreytse/jekyll-deploy-action@v0.4.0
         with:
           provider: 'github'
+          branch: "github-pages"
           token: ${{ secrets.GITHUB_TOKEN }} # It's your Personal Access Token(PAT)
           cname: 'approvaltests.com'    
           
