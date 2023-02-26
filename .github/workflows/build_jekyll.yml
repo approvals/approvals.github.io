@@ -21,5 +21,6 @@ jobs:
           provider: 'github'
           branch: "github-pages"
           token: ${{ secrets.GITHUB_TOKEN }} # It's your Personal Access Token(PAT)
+          GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
           cname: 'approvaltests.com'    
           
