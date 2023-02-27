@@ -6,7 +6,7 @@ title: Build Statuses
 # Benefits of Different Reporters
 
 ## Feedback and Granularity
-```mermaid!
+```mermaid
 flowchart
 Run --> Pass
 Run --> Fail
@@ -39,7 +39,7 @@ This is very helpful to find very detailed changes
 2. Rendered in a browser.
 This is very helpful when you want to know what the page actually looks like.
 
-```mermaid!
+```mermaid
 flowchart
 Run --> Fail
 Fail --> DiffReporter["DiffReporter\n(Open HTML in Diff Tool)"]
