@@ -25,7 +25,8 @@ In normal unit testing, you say `assertEquals(5, person.getAge())`. Approvals al
 [<img src="images/languages/golang.svg"  width="50" height="50">](https://github.com/approvals/go-approval-tests)
 [<img src="images/languages/lua.svg"  width="50" height="50">](https://github.com/approvals/ApprovalTests.lua)
 [<img src="images/languages/objective-c.svg"  width="50" height="50">](https://github.com/approvals/ApprovalTests.Objective-C)
-[<img src="images/languages/ruby.svg"  width="50" height="50">](https://github.com/kytrinyx/approvals)
+[<img src="images/languages/ruby.svg"  width="50" height="50">](https://github.com/approvals/approvaltests.ruby)
+[<img src="images/languages/labview.svg"  width="50" height="50">](https://github.com/approvals/ApprovalTests.LabVIEW)
                   
  
 
