@@ -28,6 +28,7 @@ In normal unit testing, you say `assertEquals(5, person.getAge())`. Approvals al
 [<img src="images/languages/ruby.svg"  width="50" height="50">](https://github.com/approvals/approvaltests.ruby)
 [<img src="images/languages/labview.svg"  width="50" height="50">](https://github.com/approvals/ApprovalTests.LabVIEW)
 [<img src="images/languages/dart.svg"  width="50" height="50">](https://github.com/approvals/ApprovalTests.Dart)
+[<img src="images/languages/elixir.svg"  width="50" height="50">](https://github.com/approvals/ApprovalTests.Elixir)
                   
  
 

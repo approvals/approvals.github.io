@@ -25,6 +25,8 @@ title: Build Statuses
 | [Perl](https://github.com/approvals/ApprovalTests.perl)         | [![test](https://github.com/approvals/ApprovalTests.perl/actions/workflows/test.yml/badge.svg)](https://github.com/approvals/ApprovalTests.perl/actions/workflows/test.yml)   
 | [Dart](https://github.com/approvals/ApprovalTests.Dart)         |[![Build and test](https://github.com/approvals/ApprovalTests.Dart/actions/workflows/build_and_test.yml/badge.svg)](https://github.com/approvals/ApprovalTests.Dart/actions/workflows/build_and_test.yml)
   |
+| [Elixir](https://github.com/approvals/ApprovalTests.Elixir)         |[![.github/workflows/test.yml](https://github.com/approvals/Approvaltests.Elixir/actions/workflows/test.yml/badge.svg)](https://github.com/approvals/Approvaltests.Elixir/actions/workflows/test.yml)
+  |
 
 ## Starter Projects
 
