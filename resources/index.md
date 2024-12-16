@@ -18,6 +18,6 @@ Learn more about using Approval Tests in regard to :
 
 # Podcasts
 
-* 3/01/2013 - [Approval Tests with  Llewellyn Falco](http://www.hanselminutes.com/360/approval-tests-with-llewellyn-falco) (30 min)
-* 1/02/2013 - Podcast on WatirPodcast (Old link:http://watirpodcast.com/podcast-53/ is dead - anyone have an alternative?) (43 min)
-* 7/21/2011 -  [Herding Code 117: Llewellyn Falco on Approval Tests](http://www.developerfusion.com/media/122649/herding-code-117-llewellyn-falcon-on-approval-tests/) (1 hr)
+* 2013-03-01 - [Approval Tests with  Llewellyn Falco](http://www.hanselminutes.com/360/approval-tests-with-llewellyn-falco) (30 min)
+* 2013-01-02 - Podcast on WatirPodcast (Old link:http://watirpodcast.com/podcast-53/ is dead - anyone have an alternative?) (43 min)
+* 2011-07-21 -  [Herding Code 117: Llewellyn Falco on Approval Tests](http://www.developerfusion.com/media/122649/herding-code-117-llewellyn-falcon-on-approval-tests/) (1 hr)
